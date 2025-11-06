@@ -7,8 +7,8 @@ import random
 from googleapiclient.discovery import build
 
 #GOOGLE API KEYS
-API_KEY = "AIzaSyDHpnJQWqLrJJEqdu5La_win4wqDM8KZ8I"
-SEARCH_ENGINE_ID = "f195b85d860c74e5a"
+API_KEY = ""
+SEARCH_ENGINE_ID = ""
 
 #Configuration and Initialization
 VECTORIZER_FILE = 'tfidf_vectorizer.pkl'
@@ -181,3 +181,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
