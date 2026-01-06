@@ -26,7 +26,9 @@ A Dual-Engine Content Checker deployed via Streamlit that verifies authenticity 
   # Screenshots/Demo
 
 ![Input text data](./Screenshots/Inputtext.png)
+
 ![AI Content Detection Results](./Screenshots/Results.png)
+
 ![Upload file](./Screenshots/uploadfile.png)
 
   
