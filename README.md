@@ -19,3 +19,14 @@ A Dual-Engine Content Checker deployed via Streamlit that verifies authenticity 
 - **Data Serialization:** `joblib`
 - **Language:** Python
 - **Data Source:** Kaggle's "AI vs Human Text" dataset
+
+
+---
+
+  # Screenshots/Demo
+
+![Input text data](./Screenshots/Inputtext.png)
+![AI Content Detection Results](./Screenshots/Results.png)
+![Upload file](./Screenshots/uploadfile.png)
+
+  
